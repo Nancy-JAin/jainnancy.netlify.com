@@ -1,0 +1,31 @@
+.site-header {
+    background-color: rgb(122, 34, 204);
+    border: chartreuse;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.site-header-content{
+    
+    margin: 0px;
+    text-align: center;
+
+}
+
+.profile-pic{
+    border-radius: 50%;
+    border-style: dotted;
+    height: 150px;
+    width: 150px;
+
+
+}
+body {
+
+    margin : 0;
+}
